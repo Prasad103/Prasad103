@@ -1,8 +1,6 @@
 # Prasad Bebale's GitHub Profile
 
-<p align="center">
-  <img alt="Prasad Bebale" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasad103&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
