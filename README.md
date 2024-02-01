@@ -29,3 +29,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad103&theme=tokyonight" alt="prasad103" /></p>
 
+
+<p align="left">
+  <a href="https://github.com/prasad103" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=prasad103&show_icons=true&locale=en&theme=tokyonight" alt="prasad103" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/prasad103" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad103&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prasad103" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prasad103" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad103&theme=tokyonight" alt="prasad103" />
+  </a>
+</p>
